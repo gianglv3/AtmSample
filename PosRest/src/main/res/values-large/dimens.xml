@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_slide_panel_bottom">120dip</dimen>
+
+    <dimen name="w_checkin_panel">180dip</dimen>
+    <dimen name="w_checkin_panel2">241dip</dimen>
+    <dimen name="h_checkin_panel">180dip</dimen>
+    <dimen name="margin_left_iconload">160dip</dimen>
+    <dimen name="margin_bot_timer">30dip</dimen>
+    <dimen name="margin_medal">-40dip</dimen>
+    <dimen name="w_h_medal">80dip</dimen>
+    <dimen name="w_h_icon_load">40dip</dimen>
+    <dimen name="h_h_info">102dip</dimen>
+    <dimen name="h_item_ava">150dip</dimen>
+    <dimen name="h_ava">120dip</dimen>
+    <dimen name="coner_ava">61.5dip</dimen>
+    <dimen name="h_sub_user">95dip</dimen>
+
+
+    <dimen name="font_size_big2">40sp</dimen>
+    <dimen name="w_panel_img_check">200dip</dimen>
+    <dimen name="wheel_size">400.0dip</dimen>
+    <dimen name="me_panel">711dip</dimen>
+
+    <dimen name="h_edt_profile">50dip</dimen>
+    <dimen name="w_h_logo_checkin">70dip</dimen>
+</resources>

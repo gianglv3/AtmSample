@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="300dip"
+    android:layout_height="wrap_content"
+    android:background="@drawable/dialog_background"
+    android:gravity="center"
+
+    android:orientation="vertical">
+
+    <com.ipos.restaurant.customview.TextViewRobotoRegular
+        android:id="@+id/lbl_dialog_header"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/standard_margin_double"
+        android:layout_marginLeft="@dimen/standard_margin_double"
+        android:layout_marginRight="@dimen/standard_margin_double"
+        android:layout_marginTop="@dimen/standard_margin_double_30_5"
+        android:focusableInTouchMode="false"
+        android:gravity="left"
+        android:text="@string/app_name"
+        android:textColor="@color/bg_black_home"
+        android:textIsSelectable="false"
+        android:textSize="@dimen/font_size_15" />
+
+    <ScrollView
+
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+
+        <com.ipos.restaurant.customview.TextViewOpenSanLight
+            android:id="@+id/lbl_dialog_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="top|left"
+            android:layout_marginLeft="@dimen/standard_margin_double"
+            android:layout_marginRight="@dimen/standard_margin_double"
+            android:lineSpacingExtra="@dimen/standard_margin_half"
+            android:maxHeight="300dip"
+            android:minHeight="@dimen/min_height_dialog"
+            android:textColor="@color/black_title"
+            android:textSize="@dimen/font_size_12_5" />
+    </ScrollView>
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="0.5dip"
+        android:layout_margin="@dimen/standard_margin_double"
+        android:background="@color/v15_bkg_line" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/standard_margin_double"
+        android:layout_marginLeft="@dimen/standard_margin_double"
+        android:layout_marginRight="@dimen/standard_margin_double"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <com.ipos.restaurant.customview.TextViewOpenSanRegular
+            android:id="@+id/btn_cancel"
+            style="@style/style_btn_yesno"
+            android:layout_width="0.0dip"
+            android:layout_height="wrap_content"
+            android:layout_gravity="left"
+            android:layout_marginRight="@dimen/standard_margin_double"
+            android:layout_weight="1.0"
+            android:background="@drawable/black_button_white_selector"
+            android:text="@string/btn_huy" />
+
+        <com.ipos.restaurant.customview.TextViewOpenSanRegular
+            android:id="@+id/btn_ok"
+            style="@style/style_btn_yesno"
+            android:layout_width="0.0dip"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.0"
+            android:background="@drawable/red_button_white_selector"
+            android:gravity="center"
+            android:text="@string/btn_ok" />
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Atm Helper</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Cài đặt</string>
+
+    <string name="invite_content">Mời bạn bè</string>
+    <string name="fb_app_id">914560491935093</string>
+    <string name="fb_loading">Đang xử lý</string>
+    <string name="fb_sharing">Bạn muốn chia sẻ tin này lên facebook không ?</string>
+    <string name="fb_sharing_title">Chia sẻ Facebook</string>
+    <string name="fb_login_success">Đăng nhập facebook thành công!</string>
+    <string name="fb_login_fail">Đăng nhập thất bại, vui lòng thử lại, cảm ơn!</string>
+    <string name="fb_logout_confirm">Bạn có muốn đăng xuất khỏi tài khoản facebook?</string>
+    <string name="fb_share_done">Chia sẻ thành công!</string>
+    <string name="fb_logout">Đăng xuất thành công!</string>
+    <string name="fb_share_fail">Chia sẻ thất bại, vui lòng thử lại, cảm ơn!</string>
+    <string name="fb_app_name">Mạng Xã Hội Máu</string>
+
+    <string name="fb_invite_done">Mời bạn bè thành công!</string>
+    <string name="fb_invite_fail">Mời bạn bè thất bại !</string>
+
+    <string name="exit_ask">Ấn Back một lần nữa sẽ tắt ứng dụng.</string>
+    <string name="load_no_result">Hệ thống chưa có dữ liệu</string>
+    <string name="loading">Đang xử lý</string>
+    <string name="load_more_fail">Lỗi kết nối, chạm để tải lại</string>
+    <string name="load_more_no_result">Đã tải hết kế quả</string>
+    <string name="error_network">Gặp vấn đề về kết nối, chạm để tải lại</string>
+    <string name="error_network2">Hiện không thể kết nối.</string>
+    <string name="none"></string>
+    <string name="feed_name_myself">Tôi</string>
+    <string name="feed_time_justnow">vừa mới gửi</string>
+    <string name="feed_time_minutes">phút trước</string>
+    <string name="feed_time_minutes_last">phút sau</string>
+    <string name="feed_time_hours">giờ trước</string>
+    <string name="feed_time_hours_last">giờ sau</string>
+    <string name="feed_time_day">ngày trước</string>
+    <string name="feed_time_day_last">Còn #num ngày</string>
+    <string name="to_day">Hôm nay</string>
+    <string name="feed_time_long"></string>
+    <string name="btn_ok">Ok</string>
+    <string name="btn_xacnhan">Xác nhận</string>
+    <string name="btn_dongy">Đồng ý</string>
+    <string name="btn_hoanthanh">Hoàn thành</string>
+    <string name="btn_huy">Bỏ qua</string>
+    <string name="btn_chon">Chọn</string>
+    <string name="btn_datban">Đặt bàn</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_quaylai">Quay lại</string>
+    <string name="btn_thanhtoan">Thanh toán</string>
+    <string name="mn_profile">Trang cá nhân</string>
+    <string name="btn_xong">Xong</string>
+    <string name="btn_boqua">Bỏ qua</string>
+    <string name="btn_co">Có</string>
+    <string name="btn_khong">Không</string>
+    <string name="btn_dong">Đóng</string>
+    <string name="btn_tieptuc">Tiếp tục</string>
+
+
+    <string name="dang_phat_trien">Chức năng này đang phát triển</string>
+    <string name="nick_name">Nickname</string>
+    <string name="title">Tiêu đề</string>
+
+    <string name="time_video">00:00</string>
+
+    <string name="news_text">Tin - Bài</string>
+    <string name="answer_question">Hỏi - Đáp</string>
+    <string name="search">Tìm kiếm</string>
+    <string name="search_hint">Tìm kiếm địa điểm ăn và uống</string>
+
+    <string name="map_not_ready">Map is not ready yet</string>
+
+
+    <string name="ma_su_dung_cp">Mã sử dụng Coupon</string>
+    <string name="chon_coupon">Hãy chọn Coupon giảm giá</string>
+    <string name="chucnangdev">Chức năng đang phát triển</string>
+    <string name="giam_ga"> ↓ Giảm giá</string>
+    <string name="giam_gia">Giảm giá</string>
+    <string name="giam_ngay"> ↓ Giảm  </string>
+
+
+    <string name="mylocation_not_data">Ko nhận được ví trí hiện tại của bạn</string>
+
+
+    <string name="setting_logout">Đăng xuất</string>
+    <string name="so0_luong">Số lượng</string>
+
+    <string name="pull_to_load_more_fail">Không kết nối được.\nVui lòng bấm vào đây để thử lại</string>
+    <string name="pull_to_load_more_emplty">Playlist rỗng</string>
+    <string name="pull_to_load_more_no_result">Hiện chưa có dữ liệu. Cảm ơn!</string>
+    <string name="pull_to_load_more_loadmoring">Đang tải dữ liệu...</string>
+    <string name="pull_to_load_more_end">Đã tải hết danh sách.</string>
+    <string name="gps_network_not_enabled">Vui lòng bật định vị để sử dụng tốt hơn</string>
+    <string name="gps_waitting">Đang xác định vị trí của bạn.</string>
+    <string name="open_location_settings">Mở định vị</string>
+    <string name="not_gps_check">Hệ thống không thể định vị được vị trí của bạn. Xin vui lòng tắt app đi bật lại</string>
+
+    <string name="saving_image">Đang lưu ảnh</string>
+    <string name="preparing_card">Preparing card</string>
+    <string name="no_storage_card">Không lưu được vào thẻ nhớ</string>
+    <string name="not_enough_space">Không đủ dung lượng lưu trữ</string>
+    <string name="connections_camera">Chụp từ máy ảnh</string>
+    <string name="connections_gallary">Chọn từ thư viện</string>
+    <string name="camera_error">Thao tác chụp ảnh gặp lỗi, vui lòng cập nhật ảnh từ thư viện!</string>
+
+    <string name="connections_sync_start">Bắt đầu đồng bộ...</string>
+    <string name="connections_sync_loading">Đang đồng bộ...</string>
+    <string name="connections_sync_avatar">Đang đồng bộ Avatar...</string>
+    <string name="connections_sync_nick">Đang đồng bộ Nickname...</string>
+    <string name="connections_sync_contact">Đang đồng bộ Contact...</string>
+    <string name="connections_sync_fbfriend">Đang đồng bộ facebook friend...</string>
+    <string name="connections_sync_done">Cập nhập thành công</string>
+    <string name="connections_sync_fail">Lỗi</string>
+    <string name="connections_sync_fail_all">Đồng bộ có lỗi, vui lòng đăng nhập lại</string>
+
+    <string name="not_res_inhere">Không có nhà hàng nào quanh bạn. Vui lòng mở rộng kết quả tìm kiếm</string>
+    <string name="change_username">Thay đổi Nickname</string>
+    <string name="change_password">Đổi mật khẩu</string>
+    <string name="change_avatar">Đổi avatar</string>
+    <string name="change_email">Đổi email</string>
+
+    <string name="da_share_fb">đã chia sẻ</string>
+    <string name="da_been_here">đã ở đây</string>
+    <string name="da_wishlist">mong muốn</string>
+    <string name="da_saveplan">kế hoạch ở đây</string>
+
+    <string name="dan_duong">Dẫn đường</string>
+    <string name="delivery">Giao hàng</string>
+    <string name="order_online">Gọi món Online</string>
+    <string name="order_offline">Thực đơn</string>
+    <string name="booking_online">Đặt bàn</string>
+
+
+    <string name="open_gps_online">Bạn phải bật tính năng định vị để thực hiện đặt món Online</string>
+    <string name="open_gps_offline">Bạn phải đến nhà hàng để có thể đặt món</string>
+    <string name="open_gps_require">Bạn phải bật location lên để thực hiện việc đặt món tại nhà hàng</string>
+
+    <string name="dang_ky">Đăng ký</string>
+    <string name="dang_nhap">Đăng nhập</string>
+    <string name="skip">Skip</string>
+    <string name="done">Done</string>
+    <string name="connect_fb">Connect Via Facebook</string>
+    <string name="share">Share</string>
+    <string name="order_time_online">Nhà hàng đã hết thời gian order online.</string>
+    <string name="het_sale_of"> Đã hết danh sách khuyến mãi</string>
+    <string name="context_menu_xoa">Xóa</string>
+    <string name="context_menu_sua">Sửa</string>
+    <string name="context_menu_huy">Hủy</string>
+
+
+    <string name="ten_atm">Tên Atm</string>
+    <string name="address">Địa chỉ</string>
+    <string name="kinhdo">Kinh độ (vd 105.8079551)</string>
+    <string name="vido">Vĩ độ (vd 21.0114941)</string>
+    <string name="btn_themmoi">Thêm mới</string>
+
+    <string name="diachi_ko_duocrong">Địa chỉ không được rỗng</string>
+    <string name="nhap_kinhvi">Bạn phải nhập Kinh độ và Vĩ độ</string>
+    <string name="add_title_atm">Thêm mới điểm ATM</string>
+
+    <string name="action_search">Tìm kiếm</string>
+
+    <string name="them_datatest">Thêm dữ liệu test</string>
+    <string name="themoi_atm_succ">Thêm mới ATM thành công</string>
+
+    <string name="ten_khong_duoc_rong">Tên không được rỗng</string>
+    <string name="web_pop_sharelink">Share link</string>
+    <string name="web_pop_copylink">Copy link</string>
+</resources>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/search_control"
+    android:layout_width="fill_parent"
+    android:layout_height="@dimen/size40"
+    android:layout_gravity="center"
+    android:layout_marginLeft="15dip"
+    android:layout_marginRight="15dip"
+    android:background="@drawable/bg_box_search" >
+
+    <EditText
+        android:id="@+id/search"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_toLeftOf="@+id/clear"
+        android:background="@android:color/transparent"
+       	android:imeOptions="actionSearch"
+        android:drawableLeft="@drawable/ic_search_hint"
+        android:hint="@string/search"
+        android:minHeight="@dimen/size40"
+        android:padding="5dip"
+       android:maxLines="1"
+        android:singleLine="true"
+
+        android:textColor="@color/black_title"
+        android:textSize="14sp" >
+             <requestFocus />
+    </EditText>
+    
+
+    <ImageView
+        android:id="@+id/clear"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:contentDescription="@string/app_name"
+        android:paddingLeft="15dip"
+        android:paddingRight="5dip"
+        android:paddingTop="5dip"
+        android:paddingBottom="5dip"
+        
+        android:src="@drawable/v15_btn_close" />
+
+    
+</RelativeLayout>

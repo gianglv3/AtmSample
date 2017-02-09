@@ -1,0 +1,181 @@
+{
+  "project_info": {
+    "project_number": "470505889005",
+    "firebase_url": "https://onebooks-cecb1.firebaseio.com",
+    "project_id": "onebooks-cecb1",
+    "storage_bucket": "onebooks-cecb1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470505889005:android:813ff12b975f7e85",
+        "android_client_info": {
+          "package_name": "com.newob.onebooks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470505889005-97h662ic38342olbgqs7c09578k83jh1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSoqqKDlTL-1AClT9U8I49k_s-FZmnIWM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470505889005:android:1075d43d60542539",
+        "android_client_info": {
+          "package_name": "com.suone.tinnhansmsvui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470505889005-97h662ic38342olbgqs7c09578k83jh1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSoqqKDlTL-1AClT9U8I49k_s-FZmnIWM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470505889005-97h662ic38342olbgqs7c09578k83jh1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470505889005:android:8e2df46188e15afe",
+        "android_client_info": {
+          "package_name": "com.suone.truyencuoitonghop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470505889005-97h662ic38342olbgqs7c09578k83jh1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSoqqKDlTL-1AClT9U8I49k_s-FZmnIWM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470505889005:android:7d36bf9c83891898",
+        "android_client_info": {
+          "package_name": "com.free.onebooks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470505889005-97h662ic38342olbgqs7c09578k83jh1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSoqqKDlTL-1AClT9U8I49k_s-FZmnIWM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470505889005-97h662ic38342olbgqs7c09578k83jh1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470505889005:android:068d69498e3ad971",
+        "android_client_info": {
+          "package_name": "com.sample.atm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470505889005-97h662ic38342olbgqs7c09578k83jh1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSoqqKDlTL-1AClT9U8I49k_s-FZmnIWM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470505889005-97h662ic38342olbgqs7c09578k83jh1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

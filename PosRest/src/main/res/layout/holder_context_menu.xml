@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:background="@drawable/white_button_selector_transparent"
+    android:paddingLeft="@dimen/popup_fragment_title_padding_left">
+
+    <ImageView
+        android:id="@+id/item_context_menu_icon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:paddingLeft="0dp"
+         />
+
+    <com.ipos.restaurant.customview.TextViewOpenSanRegular
+        android:id="@+id/item_context_menu_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_toRightOf="@+id/item_context_menu_icon"
+        android:ellipsize="end"
+        android:singleLine="true"
+        android:text="action name"
+        android:textColor="@color/black_title"
+        android:textSize="@dimen/font_size_16" />
+
+</RelativeLayout>

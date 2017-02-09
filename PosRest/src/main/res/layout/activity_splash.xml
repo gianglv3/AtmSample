@@ -1,0 +1,36 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_login" >
+
+    <ImageView
+        android:id="@+id/logo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:scaleType="centerInside"
+        android:layout_centerInParent="true"
+        android:src="@drawable/logo" />
+
+    <com.ipos.restaurant.customview.TextViewRobotoLight
+        android:id="@+id/version"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@+id/logo"
+        android:layout_below="@+id/logo"
+        android:layout_marginTop="-15dip"
+        android:textSize="@dimen/font_size_13_5"
+        android:textColor="@color/white"
+        android:text="V1.0" />
+    <ProgressBar
+        android:layout_marginTop="@dimen/standard_margin_double"
+        android:layout_below="@+id/logo"
+        android:id="@+id/loading"
+        style="?android:attr/progressBarStyleLarge"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_centerInParent="true"
+        android:focusable="true"
+        android:visibility="visible" />
+
+</RelativeLayout>

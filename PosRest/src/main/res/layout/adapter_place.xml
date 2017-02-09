@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/white_button_white_selector"
+    android:orientation="horizontal">
+
+    <ImageView
+        android:layout_width="@dimen/action_bar_height_70"
+        android:layout_height="@dimen/action_bar_height_70"
+        android:padding="@dimen/standard_margin_double"
+        android:scaleType="centerInside"
+   />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/action_bar_height_70"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <com.ipos.restaurant.customview.TextViewOpenSanRegular
+                android:id="@+id/shortname"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/app_name"
+                android:textColor="@color/black_title"
+                android:textSize="@dimen/font_size_15" />
+
+            <com.ipos.restaurant.customview.TextViewOpenSanRegular
+                android:id="@+id/full"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/app_name"
+                android:singleLine="true"
+                android:ellipsize="end"
+                android:textColor="@color/gray_1"
+                android:textSize="@dimen/font_size_13" />
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/color_line" />
+
+    </LinearLayout>
+</LinearLayout>

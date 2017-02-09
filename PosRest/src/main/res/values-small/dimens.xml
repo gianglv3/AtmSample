@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_bott_order">10dip</dimen>
+    <dimen name="font_size_22_5">22.5sp</dimen>
+    <dimen name="font_size_22">22sp</dimen>
+    <dimen name="font_size_20">20sp</dimen>
+    <dimen name="font_size_21">21sp</dimen>
+    <dimen name="font_size_17_5">17.5sp</dimen>
+    <dimen name="font_size_18_5">18.5sp</dimen>
+    <dimen name="font_size_18">18sp</dimen>
+    <dimen name="font_size_19">19sp</dimen>
+    <dimen name="font_size_19_5">19.5sp</dimen>
+    <dimen name="font_size_17">17sp</dimen>
+    <dimen name="font_size_16">16sp</dimen>
+    <dimen name="font_size_16_5">16.5sp</dimen>
+    <dimen name="font_size_14_5">14.5sp</dimen>
+    <dimen name="font_size_14">14sp</dimen>
+    <dimen name="font_size_15">14sp</dimen>
+    <dimen name="font_size_15_5">15.5sp</dimen>
+    <dimen name="font_size_10">10sp</dimen>
+    <dimen name="font_size_11">11sp</dimen>
+    <dimen name="font_size_11_5">11.5sp</dimen>
+    <dimen name="font_size_12">12sp</dimen>
+    <dimen name="font_size_12_5">12.5sp</dimen>
+    <dimen name="font_size_13">13sp</dimen>
+    <dimen name="font_size_13_5">13.5sp</dimen>
+    <dimen name="font_name_pos2">22.5sp</dimen>
+    <dimen name="font_name_pos">17.5sp</dimen>
+    <dimen name="font_name_pos3">15sp</dimen>
+    <dimen name="font_dis_pos">13sp</dimen>
+    <dimen name="font_add_pos">13.5sp</dimen>
+    <dimen name="font_add_pos3">11sp</dimen>
+    <dimen name="font_add_pos2">11.5sp</dimen>
+    <dimen name="font_wish_tab_me">11.5sp</dimen>
+    <dimen name="font_time_coup">12.5sp</dimen>
+    <dimen name="font_name">18.5sp</dimen>
+    <dimen name="wheel_size">300.0dip</dimen>
+
+</resources>

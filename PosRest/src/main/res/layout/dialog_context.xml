@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="@dimen/popup_fragment_width"
+    android:layout_height="wrap_content"
+    android:background="@color/white" >
+
+    <com.ipos.restaurant.customview.TextViewOpenSanRegular
+        android:id="@+id/context_menu_title"
+        android:layout_width="@dimen/popup_fragment_width"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:background="@color/bg_blue"
+        android:ellipsize="end"
+        android:paddingBottom="10dp"
+        android:paddingLeft="@dimen/popup_fragment_title_padding_left"
+        android:paddingTop="10dp"
+        android:singleLine="true"
+        android:text="title"
+        android:textColor="@color/white"
+        android:textSize="@dimen/font_size_16" />
+
+    <View
+        android:id="@+id/context_menu_view"
+        android:layout_width="@dimen/popup_fragment_width"
+        android:layout_height="1dp"
+        android:layout_below="@+id/context_menu_title"
+        android:background="@color/v15_bkg_line" />
+
+    <ListView
+        android:id="@+id/context_menu_listview"
+        android:layout_width="@dimen/popup_fragment_width"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/context_menu_view"
+        android:scrollbars="none"
+        android:divider="@color/v15_bkg_line"
+        android:dividerHeight="1dip" >
+    </ListView>
+
+</RelativeLayout>
