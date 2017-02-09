@@ -314,6 +314,7 @@ public class MainAtmActivity extends  BaseActivity   {
     }
 
 
+    //data test
     public   void importData() {
 
         boolean impor =config.getBoolean(IMPORTDATA,false);
